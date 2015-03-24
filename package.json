@@ -1,0 +1,19 @@
+{
+  "name": "angular-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdrianiBruss/angular-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdrianiBruss/angular-test/issues"
+  },
+  "homepage": "https://github.com/AdrianiBruss/angular-test"
+}
