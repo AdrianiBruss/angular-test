@@ -13,5 +13,5 @@ app.controller('passwordController', function($scope){
         }else{
             $scope.strength = 'weak';
         }
-    }
+    };
 });
