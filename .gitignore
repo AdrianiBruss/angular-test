@@ -1,6 +1,10 @@
 bower_components/
 node_modules/
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 *.log
 >>>>>>> origin/master
+=======
+*.log
+>>>>>>> origin/fake
