@@ -1,16 +1,17 @@
 app.controller('passwordController', function($scope){
+
     $scope.password = '';
-    $scope.strenght = 'weak';
+    $scope.strength = 'weak';
 
     $scope.grade = function(){
 
         var size = $scope.password.length;
         if(size > 10){
-            $scope.strenght = 'strong';
+            $scope.strength = 'strong';
         }else if (size > 8 ){
-            $scope.strenght = 'medium';
+            $scope.strength = 'medium';
         }else{
-            $scope.strenght = 'weak';
+            $scope.strength = 'weak';
         }
     }
 });
